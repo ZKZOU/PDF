@@ -7,6 +7,8 @@ https://github.com/ZKZOU/PDF
 
 Zou, Z. K. (2026). Computational Universe Article Backup(from 2025-02 to 2026-07). Zenodo. https://doi.org/10.5281/zenodo.21847143
 
+https://pdf.cosmoquanta.com/sitemap.xml
+
 
 https://pdf.cosmoquanta.com/A%20Cosmological%20Model%20Explaining%20Matter%20and%20Dark%20Matter%20Formation%2C.pdf
 
@@ -83,3 +85,6 @@ https://pdf.cosmoquanta.com/Time_Definition_in_Ontology.pdf
 https://pdf.cosmoquanta.com/Time_Entropy_Global_Time_Local_Time.pdf
 
 https://pdf.cosmoquanta.com/What_Is_Time_How_Mass_Creates_Gravity.pdf
+
+
+
