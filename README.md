@@ -86,5 +86,7 @@ https://pdf.cosmoquanta.com/Time_Entropy_Global_Time_Local_Time.pdf
 
 https://pdf.cosmoquanta.com/What_Is_Time_How_Mass_Creates_Gravity.pdf
 
+https://pdf.cosmoquanta.com/Demystifying-Time_-Entropy_-Mass_-and-Gravity-In-Energy-Gradient-Driven-Computational-Universe .epub
+
 
 
